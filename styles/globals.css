@@ -18,4 +18,24 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+}
+
+h1 {
+  color: rgba(5, 5, 71, 0.644);
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+p {
+  padding-left: 20px;
+  padding-top: 5px;
+}
+
+a {
+  color: darkorchid;
+}
+
+img {
+  background-color: grey;
 }
